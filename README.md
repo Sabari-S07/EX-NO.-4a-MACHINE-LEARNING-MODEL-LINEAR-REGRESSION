@@ -502,6 +502,38 @@ plt.title(
 plt.show()
 •	The graph provides a visual comparison of model errors. 
 •	The model with the lowest RMSE performs best according to this metric.
+
+## OUTPUT
+<img width="541" height="393" alt="929cc98a-5f07-439e-8e1b-4508ebf44050" src="https://github.com/user-attachments/assets/d1099d61-80b5-4734-8b23-eed862589cfa" />
+<img width="549" height="393" alt="964805a6-8feb-425b-b1de-3e47bfdc1d8f" src="https://github.com/user-attachments/assets/1c88673c-4f21-4aae-ad1c-f64e3ed3a63b" />
+<img width="540" height="393" alt="b363a143-3c4b-4636-8c10-e8972a14a7bf" src="https://github.com/user-attachments/assets/48470ae8-710d-4ad2-b65d-597d23cb0e46" />
+<img width="540" height="393" alt="29afb055-9913-4dcf-a9d1-6036deba7ce1" src="https://github.com/user-attachments/assets/ec2b61fc-72cb-4d2c-a6cd-23210beb8779" />
+<img width="549" height="393" alt="73315f43-08ab-4208-a90e-22d8c7badd59" src="https://github.com/user-attachments/assets/de45ace1-8d53-4b9d-bdb5-b9201f386dd7" />
+<img width="637" height="528" alt="efad57d5-e7bb-4ea1-980a-ef3f95f4e20d" src="https://github.com/user-attachments/assets/47b66d08-ca9c-4696-a020-266919be1fc3" />
+<img width="579" height="393" alt="1f2d6d0c-5a73-4b00-9f68-403e4deb2592" src="https://github.com/user-attachments/assets/a6fa8964-cc09-4710-a5eb-1944e12becda" />
+<img width="578" height="393" alt="2efd3ca3-c935-4e0e-8bdc-356284e01600" src="https://github.com/user-attachments/assets/02368b9b-a3d9-4198-97e8-3e9c2a0feac6" />
+<img width="578" height="393" alt="2d0dc34a-3734-4bb1-9113-dad6cbe29862" src="https://github.com/user-attachments/assets/a7a50751-0a0d-48a9-aa80-aa57307ad0c4" />
+<img width="578" height="393" alt="5b494c0a-162b-45a9-b24f-1dd72f67e92c" src="https://github.com/user-attachments/assets/06f86c41-26a0-4776-933e-b3c7bd7f180b" />
+<img width="549" height="355" alt="c47df92d-6996-4cc0-a215-784961094293" src="https://github.com/user-attachments/assets/115978b9-835b-4a93-acd3-0981b35a6f78" />
+<img width="523" height="355" alt="3a808c0f-4b53-41b1-80cd-f662e998cdb8" src="https://github.com/user-attachments/assets/e70e5372-ed1d-43dc-8dd5-44d0ec72f409" />
+<img width="540" height="355" alt="50a1cecd-56a4-4a1c-a51d-2923c2cfe440" src="https://github.com/user-attachments/assets/7a94635a-d73c-4a9d-a6d1-5fdfc9778ece" />
+<img width="532" height="355" alt="0f6a3dae-a51e-48eb-b550-e4df1ca092cb" src="https://github.com/user-attachments/assets/2ad3c95f-d657-4899-9e6b-7cd3aa97260c" />
+<img width="578" height="355" alt="b02cec7a-c9fd-405e-9223-599320e52a58" src="https://github.com/user-attachments/assets/7557f381-6ed5-442b-a43c-536dcb32646c" />
+<img width="1488" height="1190" alt="b74d0bf4-6624-41d9-8cc0-04c3017c4085" src="https://github.com/user-attachments/assets/a30566f3-7866-4f85-8839-66beae41e933" />
+<img width="576" height="393" alt="ad35ea8f-173f-4b0a-ac08-dc27cd6cf323" src="https://github.com/user-attachments/assets/cee5de70-5727-4963-8d6e-2c35fb97f2ab" />
+<img width="576" height="393" alt="99f91f98-98d3-4312-af09-21ed6aed14ce" src="https://github.com/user-attachments/assets/5871df40-11e1-4730-8ec1-4395c7bd04a3" />
+<img width="576" height="393" alt="09de21a5-39ab-42b7-9f57-65f408264424" src="https://github.com/user-attachments/assets/54573cdc-b8fb-4671-983e-ffc940067c9e" />
+<img width="587" height="393" alt="53963de5-c32f-4c42-9140-b3067ef9f8a3" src="https://github.com/user-attachments/assets/ea8b3bf2-8ea9-4acd-8f68-d02e05e74d29" />
+<img width="576" height="393" alt="009a809c-7186-4fd5-972b-71e40fdc67fd" src="https://github.com/user-attachments/assets/65b38249-f9c2-408a-8881-7d3438f89244" />
+<img width="597" height="393" alt="cbe0aa4c-7fd6-4837-b4da-184499a5bca7" src="https://github.com/user-attachments/assets/5f3e4df9-c08f-4050-8c68-27b7ccfd44d3" />
+<img width="569" height="393" alt="c7f514ed-d56a-45c4-8a1e-063a283c4114" src="https://github.com/user-attachments/assets/8b66ce63-8758-45bf-8b3a-af3989eb9c74" />
+<img width="590" height="393" alt="97bd034e-fb92-4769-9cbc-4219e101804c" src="https://github.com/user-attachments/assets/95fe35c0-ef79-4455-bf7e-0bd4723c81d5" />
+<img width="578" height="393" alt="27276ae3-1471-46d0-b83d-3bbde34ec1f4" src="https://github.com/user-attachments/assets/695a16ff-d0bd-4adb-a998-9c5c7685c483" />
+<img width="569" height="393" alt="8fe7f0a7-2767-424c-948b-13586579d562" src="https://github.com/user-attachments/assets/2cf9396a-e9d1-4eac-850b-b40c04d9cf53" />
+<img width="663" height="374" alt="c6cdac90-0744-4491-8ca2-4664daa69a7a" src="https://github.com/user-attachments/assets/518f513b-7396-4b6a-8c77-52fb408f9f38" />
+<img width="658" height="374" alt="8120b392-a4af-4d38-b435-5e3a6b2470bd" src="https://github.com/user-attachments/assets/ab1ea1f8-0abb-4c06-be4e-cb1ba526c4e4" />
+<img width="980" height="547" alt="8a6928d9-4e48-4238-a6a9-186fa340fc30" src="https://github.com/user-attachments/assets/53143105-cccf-4066-80c1-b4000628c8a3" />
+
 ## CONCLUSION
 Thus, Linear Regression and other regression models were successfully applied for house price prediction, and their performance was compared using standard regression evaluation metrics.
 
